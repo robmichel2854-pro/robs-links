@@ -54,7 +54,40 @@ https://github.com/elceef/dnstwist | DNS Twist - find multiple variations on dom
 https://viewdns.info/ | Lots of DNS info.
 https://github.com/x0rz/phishing_catcher | Catch possible phishing domains in near real time by looking for suspicious TLS certificate issuances reported
 https://blog.snort.org/ | Snort Blog!
+https://github.com/optiv/ScareCrow | ScareCrow
+https://www.zaproxy.org/docs/docker/api-scan/ | OWASP ZAP ... API Scanner
+https://github.com/WerWolv/ImHex | Pretty Neat Hex Editor 
+https://www.nirsoft.net/utils/browsing_history_view.html | Good Browser History Tool for Windows. Local and remote. 
+https://vuls.io/en/ | Agentless Linux Vul scanner
+<<<<<<< Updated upstream
+https://www.scootersoftware.com/download.php | Beyond compair to compair files, etc.
+https://github.com/guardrailsio/awesome-php-security | PHP Security. 
+=======
+https://www.scootersoftware.com/download.php | Beyond compair to compair files, etc. 
+>>>>>>> Stashed changes
+
  
+
+## Traffic Analysis
+Link | Description
+---- | ----
+https://assets.corelight.com/portals/jsnbhy7x/zeekposter
+https://corelight.blog/2020/12/22/detecting-sunburst-solarigate-activity-in-retrospect-with-zeek-a-practical-example/
+https://corelight.blog/2020/06/18/dns-over-tls-and-dns-over-https/
+https://corelight.blog/2020/06/16/the-light-shines-even-brighter-updates-to-corelights-encrypted-traffic-collection/
+https://corelight.blog/2020/05/13/analyzing-encrypted-rdp-connections/
+https://corelight.blog/2020/01/17/day-1-detection-cve-2020-0601/
+https://www.activecountermeasures.com/free-tools/rita/
+https://www.activecountermeasures.com/ac-hunter-features/
+https://www.corelight.com/about-zeek/how-zeek-works
+https://corelight.blog/2019/12/06/detecting-openbsd-cve-2019-19521-ssh-exploit-attempts/
+https://www.activecountermeasures.com/alternative-dns-techniques/
+https://corelight.blog/2019/11/20/introducing-corelight-encrypted-traffic-collection/
+
+## Networking
+Link | Description
+---- | ----
+https://www.wireguard.com/ | WireGuard VPN
 
 ## On-Line Tools 
 Link | Description
@@ -63,6 +96,8 @@ https://jwt.io/ | JWT Decoder
 https://gchq.github.io/CyberChef/ | Online PUBLIC CyberChef.
 https://team-cymru.com/community-services/ip-asn-mapping/ | IP to ASN Mapping 
 https://attackerkb.com/ | CVEs being upvoted .. Like CVE Reddit. 
+https://evotec.xyz/the-only-command-you-will-ever-need-to-understand-and-fix-your-group-policies-gpo/  | homemade GPO Tool
+https://subdomainfinder.c99.nl/ | find subdomains 
 
 
 ## Training 
@@ -77,7 +112,15 @@ https://github.com/bkimminich/juice-shop | Juice-Shop git repo
 https://pentester.land/cheatsheets/2018/10/12/list-of-Intentionally-vulnerable-android-apps.html | List of adroid apps for testing.
 https://www.freecodecamp.org/news/ | FreeCodeCamp 
 https://activecm.github.io/threat-hunting-labs/ | Active Countermeasures - THREAT HUNTING LABS INTRODUCTION
+http://www.threatmodelingmanifesto.org/ | Threat Modeling Manifesto
+https://www.bugbountyhunting.com/ | Archive of Bug Bounty techniques
 
+## Priv Esc
+https://blog.g0tmi1k.com/ | good, though old blog
+https://github.com/swisskyrepo/PayloadsAllTheThings | PayloadsAllTheThings
+https://book.hacktricks.xyz/ | Another good PE Reasource. 
+https://sushant747.gitbooks.io/total-oscp-guide/content/privilege_escalation_-_linux.html | Linux Priv Esc
+https://github.com/Gr1mmie/Linux-Privilege-Escalation-Resources | Class notes for Linux Priv Esc from Udemy
 
 ### Conference Archives 
 Link | Description
@@ -104,6 +147,11 @@ https://github.com/odzhan/tinycrypt/blob/master/tbnlib/binmath/jpake/hao-ryan-20
 https://searx.space/ | Public Searx Search Engines 
 https://github.com/OWASP/wstg/tree/master/document | Pen Testing Guide .. OWASP Testing Project
 https://www.tenable.com/downloads/cis-compliance-audit-policies | Tenable CIS policies 
+https://cryptobook.nakov.com/ | Crypto Documentation
+https://www.dataguidance.com/comparisons/usa-state-law-tracker | Online Privacy State Law Tracker
+https://github.com/public-apis/public-apis/blob/master/README.md | Public API Repo .. 
+https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/active-directory | AD Cheat Sheets
+https://guyinatuxedo.github.io/index.html | Nightmare - Binary Exploitation course
 
 
 ## OSINT
@@ -137,6 +185,8 @@ https://www.darkreading.com/vulnerabilities---threats/cisa-issues-alert-for-micr
 https://shells.systems/defeat-bitdefender-total-security-using-windows-api-unhooking-to-perform-process-injection/ | Defeat Bitdefender total security using windows API unhooking to perform process injection
 https://www.veracode.com/sites/default/files/pdf/resources/ipapers/everything-you-need-to-know-guide-maturing-an-application-security-program/index.html | MATURING YOUR APPLICATION SECURITY PROGRAM
 https://nullsweep.com/ | Blogger
+https://www.comparitech.com/ | Neat little site rating *Consumer* technologies.
+https://www.servethehome.com/ | Neat Hardware focused site. 
 
 
 ## Linux 
@@ -252,5 +302,4 @@ site:twitter.com  intext:"testhere"
 ## Just reminders
 while true; do uptime >> uptime.log; sleep 1; done
 while true; do (echo "%CPU %MEM ARGS $(date)" && ps -e -o pcpu,pmem,args --sort=pcpu | cut -d" " -f1-5 | tail) >> ps.log; sleep 5; done
-
 
