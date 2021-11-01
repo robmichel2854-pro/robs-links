@@ -59,12 +59,18 @@ https://www.zaproxy.org/docs/docker/api-scan/ | OWASP ZAP ... API Scanner
 https://github.com/WerWolv/ImHex | Pretty Neat Hex Editor 
 https://www.nirsoft.net/utils/browsing_history_view.html | Good Browser History Tool for Windows. Local and remote. 
 https://vuls.io/en/ | Agentless Linux Vul scanner
-<<<<<<< Updated upstream
 https://www.scootersoftware.com/download.php | Beyond compair to compair files, etc.
 https://github.com/guardrailsio/awesome-php-security | PHP Security. 
-=======
 https://www.scootersoftware.com/download.php | Beyond compair to compair files, etc. 
->>>>>>> Stashed changes
+https://dmarcian.com/dmarc-inspector | Email Checker
+https://emkei.cz/ | Fake Emailer
+
+
+
+
+# Blackhat - DEFCON - 2021
+https://github.com/cyberark/kubesploit | Kubesploit
+https://github.com/capturethesignal | Capture the signal 
 
  
 
@@ -98,7 +104,7 @@ https://team-cymru.com/community-services/ip-asn-mapping/ | IP to ASN Mapping
 https://attackerkb.com/ | CVEs being upvoted .. Like CVE Reddit. 
 https://evotec.xyz/the-only-command-you-will-ever-need-to-understand-and-fix-your-group-policies-gpo/  | homemade GPO Tool
 https://subdomainfinder.c99.nl/ | find subdomains 
-
+https://opensecurity.io/tools/ | misc tools 
 
 ## Training 
 Link | Description
@@ -114,6 +120,7 @@ https://www.freecodecamp.org/news/ | FreeCodeCamp
 https://activecm.github.io/threat-hunting-labs/ | Active Countermeasures - THREAT HUNTING LABS INTRODUCTION
 http://www.threatmodelingmanifesto.org/ | Threat Modeling Manifesto
 https://www.bugbountyhunting.com/ | Archive of Bug Bounty techniques
+https://aws.amazon.com/blogs/devops/building-an-end-to-end-kubernetes-based-devsecops-software-factory-on-aws/ | DevSecOps Pipeline AWS 
 
 ## Priv Esc
 https://blog.g0tmi1k.com/ | good, though old blog
@@ -152,6 +159,10 @@ https://www.dataguidance.com/comparisons/usa-state-law-tracker | Online Privacy 
 https://github.com/public-apis/public-apis/blob/master/README.md | Public API Repo .. 
 https://ethicalhackersacademy.com/blogs/ethical-hackers-academy/active-directory | AD Cheat Sheets
 https://guyinatuxedo.github.io/index.html | Nightmare - Binary Exploitation course
+https://endoflife.date/ | End of Life Repo 
+https://capec.mitre.org/index.html | Threat Reference
+https://github.com/fuzzdb-project/fuzzdb/tree/master/attack/file-upload/malicious-images | Malicious Test Files for AV
+https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet | The Hackers Choice - Cheat Sheet
 
 
 ## OSINT
@@ -169,6 +180,7 @@ https://inteltechniques.com/data/workbook.pdf | Data Removal Workbook
 https://freephonenum.com/ | Free Temp Texts
 https://github.com/mxrch/darkshot | Darkshot is a scraper tool on steroids
 https://github.com/utkusen/shotlooter | Shotlooter tool is developed to find sensitive data inside the screenshots which are uploaded 
+https://bib.opensourceintelligence.biz/ | Opensource Books Resources
 
 
 ## Misc News
@@ -287,7 +299,6 @@ Link
 With Terraform …
 https://www.marcolancini.it/2020/blog-semgrep-for-cloud-security/ | Terraform 
 https://www.virtuallyghetto.com/2020/12/supermicro-vmware-homelab-2020-options.html | Terraform
-
 
 
 
