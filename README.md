@@ -163,6 +163,12 @@ https://endoflife.date/ | End of Life Repo
 https://capec.mitre.org/index.html | Threat Reference
 https://github.com/fuzzdb-project/fuzzdb/tree/master/attack/file-upload/malicious-images | Malicious Test Files for AV
 https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet | The Hackers Choice - Cheat Sheet
+https://samate.nist.gov/SARD/testsuite.php | NIST Juliet Test Suite
+https://github.com/enascimento/firmware-security-training | Firmware security Testing. 
+https://alike-lantern-72d.notion.site/Web-Application-Penetration-Testing-Checklist-4792d95add7d4ffd85dd50a5f50659c6  | Web Application checklist 
+https://urlscan.io/ | URI SCAN -- Almost like a sandbox report for your Web App.
+https://github.com/OWASP/CheatSheetSeries/tree/master/cheatsheets | OWASP CheatSheets
+
 
 
 ## OSINT
@@ -181,6 +187,7 @@ https://freephonenum.com/ | Free Temp Texts
 https://github.com/mxrch/darkshot | Darkshot is a scraper tool on steroids
 https://github.com/utkusen/shotlooter | Shotlooter tool is developed to find sensitive data inside the screenshots which are uploaded 
 https://bib.opensourceintelligence.biz/ | Opensource Books Resources
+https://inteltechniques.com/tools/ | Open Source OSINT web site - really cool. 
 
 
 ## Misc News
@@ -252,7 +259,7 @@ https://portswigger.net/web-security
 
 
 ## MISC .. FIX LATER .. 
-Just throwing this in, cause its late... 
+Just throwing this in... 
 
 Link | Description
 ---- | ----
@@ -263,6 +270,7 @@ https://github.com/hslatman/awesome-threat-intelligence
 https://www.recordedfuture.com/iran-cyber-operations-structure/
 https://github.com/Velocidex/velociraptor
 https://github.com/vortexau/dnsvalidator
+https://www.intel.com/content/www/us/en/support/articles/000022396/processors.html
 
 
 
@@ -271,9 +279,7 @@ https://github.com/slimbootloader/slimbootloader
 https://github.com/coreboot/coreboot
 
 
-
 https://superuser.com/questions/578396/writing-a-cpu-ram-usage-log-over-a-period-of-time-to-file-on-ubuntu-12-04
-
 
 Link
 ----
@@ -299,6 +305,7 @@ Link
 With Terraform …
 https://www.marcolancini.it/2020/blog-semgrep-for-cloud-security/ | Terraform 
 https://www.virtuallyghetto.com/2020/12/supermicro-vmware-homelab-2020-options.html | Terraform
+
 
 
 
