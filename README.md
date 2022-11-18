@@ -64,6 +64,8 @@ https://github.com/guardrailsio/awesome-php-security | PHP Security.
 https://www.scootersoftware.com/download.php | Beyond compair to compair files, etc. 
 https://dmarcian.com/dmarc-inspector | Email Checker
 https://emkei.cz/ | Fake Emailer
+https://github.com/projectdiscovery/nuclei | Fast and customisable vulnerability scanner based on simple YAML based DSL.
+https://github.com/projectdiscovery | Other cool tools, including nuclei
 
 
 
