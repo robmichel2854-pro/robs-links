@@ -107,6 +107,7 @@ https://attackerkb.com/ | CVEs being upvoted .. Like CVE Reddit.
 https://evotec.xyz/the-only-command-you-will-ever-need-to-understand-and-fix-your-group-policies-gpo/  | homemade GPO Tool
 https://subdomainfinder.c99.nl/ | find subdomains 
 https://opensecurity.io/tools/ | misc tools 
+https://askcryp.to/ | Crypto Repo
 
 ## Training 
 Link | Description
