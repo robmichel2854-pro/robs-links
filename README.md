@@ -176,9 +176,6 @@ https://www.dtonomy.com/cybersec-cheat-sheets/ | Good list of a many CheatSheets
 https://github.com/mtdvio/every-programmer-should-know | Every Programmer should know 
 https://github.com/Samsar4/Ethical-Hacking-Labs  | Ethical hacking labs. 
 
-
-
-
 ## OSINT
 
 Link | Description
@@ -196,6 +193,7 @@ https://github.com/mxrch/darkshot | Darkshot is a scraper tool on steroids
 https://github.com/utkusen/shotlooter | Shotlooter tool is developed to find sensitive data inside the screenshots which are uploaded 
 https://bib.opensourceintelligence.biz/ | Opensource Books Resources
 https://inteltechniques.com/tools/ | Open Source OSINT web site - really cool. 
+https://www.opencve.io/welcome | Open CVE Notification Information.
 
 
 ## Misc News
