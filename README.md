@@ -109,6 +109,7 @@ https://evotec.xyz/the-only-command-you-will-ever-need-to-understand-and-fix-you
 https://subdomainfinder.c99.nl/ | find subdomains 
 https://opensecurity.io/tools/ | misc tools 
 https://askcryp.to/ | Crypto Repo
+https://tzusec.com/how-to-launch-command-prompt-and-powershell-from-ms-paint/ | Launch Powershell with paint
 
 ## Training 
 Link | Description
@@ -235,6 +236,7 @@ https://www.youtube.com/watch?v=QHYn-v30K6k | Migrating Applications Into Contai
 https://securityweekly.com/wp-content/uploads/2020/06/CyberJungleJune2020-ContainerSecurity.pdf | Slides for - Migrating Applications Into Containers: Without Forgetting About Security 
 https://n8n.io/ | Etendable workflow automation
 https://www.youtube.com/watch?v=4DjEtH4DwHU | Container Video 
+https://github.com/cyberark/PipeViewer | Pipeviewer
 
 
 ## Fuzzing
