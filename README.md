@@ -126,6 +126,10 @@ https://activecm.github.io/threat-hunting-labs/ | Active Countermeasures - THREA
 http://www.threatmodelingmanifesto.org/ | Threat Modeling Manifesto
 https://www.bugbountyhunting.com/ | Archive of Bug Bounty techniques
 https://aws.amazon.com/blogs/devops/building-an-end-to-end-kubernetes-based-devsecops-software-factory-on-aws/ | DevSecOps Pipeline AWS 
+https://p.ost2.fyi/courses | BIOS / Firmware
+https://opensecuritytraining.info/Training.html | OpenSource Training
+http://www.securitytube.net/# | Security Tube
+https://www.msreverseengineering.com/research | reverse engineering.
 
 ## Priv Esc
 https://blog.g0tmi1k.com/ | good, though old blog
