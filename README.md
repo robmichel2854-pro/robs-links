@@ -187,6 +187,7 @@ https://github.com/Samsar4/Ethical-Hacking-Labs  | Ethical hacking labs.
 https://github.com/CSbyGB | another good list of links. 
 https://github.com/rng70/hacking-resources | Yet another good like of links - books 
 https://andreacristaldi.github.io/APTmap/ | neat global map of APT actors
+https://exploit-notes.hdks.org/ | Awesome index of cheatsheets. 
 
 ## OSINT
 
