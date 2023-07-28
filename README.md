@@ -188,6 +188,7 @@ https://github.com/CSbyGB | another good list of links.
 https://github.com/rng70/hacking-resources | Yet another good like of links - books 
 https://andreacristaldi.github.io/APTmap/ | neat global map of APT actors
 https://exploit-notes.hdks.org/ | Awesome index of cheatsheets. 
+https://github.com/swisskyrepo/PayloadsAllTheThings | Cool collection of Payloads and bypasses.
 
 ## OSINT
 
@@ -253,7 +254,7 @@ https://github.com/cyberark/PipeViewer | Pipeviewer
 
 ## Fuzzing
 Link | Description
-----|----
+---- | ----
 https://github.com/microsoft/onefuzz | Project OneFuzz enables continuous developer-driven fuzzing to proactively harden software prior to release.
 https://github.com/ffuf | Fuzz Faster U Fool. 
 
