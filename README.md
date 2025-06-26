@@ -8,7 +8,7 @@ Mostly Cybersecurity related, however not all.
 
 Link | Description
 ---- | ----
-https://sslbl.abuse.ch/ | Malware related ssl certs
+https://sslbl.abuse.ch/ | Malware related ssl certifications
 https://github.com/guardicore/monkey | Infection Monkey - Automated testing. 
 https://urlhaus.abuse.ch/ | Malware Repo
 https://tria.ge/reports/public | Malware Repo
