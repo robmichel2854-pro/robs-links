@@ -66,12 +66,10 @@ https://emkei.cz/ | Fake Emailer
 https://github.com/projectdiscovery/nuclei | Fast and customisable vulnerability scanner based on simple YAML based DSL.
 https://github.com/projectdiscovery | Other cool tools, including nuclei
 
-## AI
+## AI - Ouch - really old.
 https://www.marktechpost.com/2023/04/04/best-free-prompt-engineering-resources-2023/ | Best Prompts for 2023
 
 
-
-# Blackhat - DEFCON - 2021
 https://github.com/cyberark/kubesploit | Kubesploit
 https://github.com/capturethesignal | Capture the signal 
 
