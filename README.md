@@ -3,12 +3,11 @@
 Mostly Cybersecurity related, however not all. 
 
 
-
 ## Malware Related
 
 Link | Description
 ---- | ----
-https://sslbl.abuse.ch/ | Malware related ssl certifications
+https://sslbl.abuse.ch/ | Malware related ssl certifications - Change Request number 2 
 https://github.com/guardicore/monkey | Infection Monkey - Automated testing. 
 https://urlhaus.abuse.ch/ | Malware Repo
 https://tria.ge/reports/public | Malware Repo
